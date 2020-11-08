@@ -39,7 +39,7 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 
 ![hasil_latihan2.PNG](Pic/hasil_latihan2.PNG)
 
-Untuk tugas pertemuan ke 7 berarti sudah selesai jika semua syntax berhasil di run atau di jalankan.
+Untuk Tugas Pertemuan 7 suda selesai, lanjut ke Tugas Pertemuan 7 - Praktikum 2
 
 # ===Bangkit Akbar Anggara===
 # ===Thank You===
