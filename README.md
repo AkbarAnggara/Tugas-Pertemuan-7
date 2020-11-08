@@ -1,10 +1,8 @@
 # Tugas Pertemuan 7
 
-Nama : Bangkit Akbar Anggara
-
-NIM : 312010148
-
-Kelas : TI.20.B.1
+Nama : Bangkit Akbar Anggara<br>
+NIM : 312010148<br>
+Kelas : TI.20.B.1<br>
 
 # Tugas Pertemuan 7 - Latihan 1
 Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
