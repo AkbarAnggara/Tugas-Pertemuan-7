@@ -16,7 +16,7 @@ Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
 
 Keterangan :
  - untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan for
- - karena pada syntax tersebut kamu membutuhkan a(baris) dan b(kolom) jadi kamu perlu menambahkan keterangan a(baris) dan b(kolom).
+ - karena pada syntax tersebut kamu membutuhkan a(baris) dan b(kolom) jadi kamu perlu menambahkan keterangan a(baris) dan b(kolom) sebelum menggunakan for
 
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini :
 
